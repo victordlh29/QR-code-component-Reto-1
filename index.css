@@ -34,7 +34,7 @@ body {
     /* justify-content: center; */
     margin: 0 auto;
     position: relative;
-    top: 40px;
+    top: 200px;
 }
 
 .container .card {
@@ -96,5 +96,5 @@ img{
 
 footer {
     position: relative;
-    top: 60px;
+    top: 220px;
 }
